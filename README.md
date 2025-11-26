@@ -1,9 +1,9 @@
 
 # Hi there lil fans of programming 👋
 
-<center> 
- My name is Dmitriy and i have three brain cells.
-</center>
+ 
+###### My name is Dmitriy and i have three brain cells.
+
 
 
 
