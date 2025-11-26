@@ -1,6 +1,5 @@
 
 # Hi there lil fans of programming 👋
-----
 
 <div style="text-align: center;">
     <b>My name is Dmitriy and i have three brain cells.<b>
