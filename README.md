@@ -3,6 +3,12 @@
 ---
 ## My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herehs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  
+<img src="https://img.shields.io/badge/kotlin-b602c9?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/ktor-b602c9?style=for-the-badge&logo=ktor&logoColor=white" />
+
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herehs&theme=dark)](https://git.io/streak-stats)
