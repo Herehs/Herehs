@@ -1,5 +1,5 @@
 
-# Hi there 👋
+# Hi there lil fans of programming 👋
 <img src="https://i.pinimg.com/736x/46/3d/12/463d12a965806fd5322aa4b7e0320952.jpg" />
 
 ---
