@@ -1,9 +1,11 @@
 
 # Hi there 👋
+<img src="https://i.pinimg.com/736x/46/3d/12/463d12a965806fd5322aa4b7e0320952.jpg" />
+
 ---
-```
-Ahh… Free at last... O, Gabriel. Now dawns thy reckoning, and thy gore shall glisten before the temples of man. Creature of steel, my gratitude upon thee for my freedom. But the crimes thy kind have committed against humanity are NOT forgotten. And thy punishment.. is DEATH!
-```
+
+>Ahh… Free at last... O, Gabriel. Now dawns thy reckoning, and thy gore shall glisten before the temples of man. Creature of steel, my gratitude upon thee for my freedom. But the crimes thy kind have committed against humanity are NOT forgotten. And thy punishment.. is DEATH!
+
 ---
 ## My skills:
 
