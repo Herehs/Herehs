@@ -2,6 +2,11 @@
 
 ---
 
+<div align="center">
+
+<img src="img/image.png" />
+</div>
+
 My name is Dmitriy and i am beginner android developer. 
 
 
