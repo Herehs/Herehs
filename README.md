@@ -8,8 +8,8 @@ My name is Dmitriy and i am beginner android developer.
 ### Tech stack:
 
 <p align="left">
-<img src="img/kotlin.svg" height="96" />
-<img src="img/ktor.svg" height="96" />
+<img src="img/kotlin.svg" height="128" />
+<img src="img/ktor.svg" height="128" />
 </p>
 
 <div align="center">
