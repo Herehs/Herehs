@@ -1,25 +1,19 @@
+<h1 align="center">Hi there fans of programming 👋</h1>
 
-# Hi there lil fans of programming 👋
+---
 
- 
-###### My name is Dmitriy and i have three brain cells.
-
-
+My name is Dmitriy and i am beginner android developer. 
 
 
-
-<div align="center"> 
-    <img src="https://i.pinimg.com/736x/46/3d/12/463d12a965806fd5322aa4b7e0320952.jpg" />
-</div>
-
-
-## My skills:
+### Tech stack:
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/kotlin-b602c9?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/ktor-b602c9?style=for-the-badge&logo=ktor&logoColor=white" />
-
+<img src="img/kotlin.svg" height="96" />
+<img src="img/ktor.svg" height="96" />
 </p>
 
+<div align="center">
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Herehs&theme=dark)](https://git.io/streak-stats)
+
+</div>
