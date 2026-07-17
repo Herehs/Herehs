@@ -23,6 +23,6 @@ My name is Dmitriy and i am beginner android developer.
 
 </div>
 
-<div align="left">
+<div align="right">
 <img src="img/Kodee_sitting_2.svg" />
 <div>
