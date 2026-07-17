@@ -24,5 +24,5 @@ My name is Dmitriy and i am beginner android developer.
 </div>
 
 <div align="right">
-<img src="img/Kodee_sitting_222.svg" />
+<img src="img/Kodee_sitting.svg" />
 <div>
