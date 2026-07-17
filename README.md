@@ -15,6 +15,7 @@ My name is Dmitriy and i am beginner android developer.
 <p align="left">
 <img src="img/kotlin.svg" height="128" />
 <img src="img/ktor.svg" height="128" />
+...and also Jetpack Compose, RoomDB, PostgreSQL, Koin, and Coil, though I haven't made icons for them yet.
 </p>
 
 <div align="center">
